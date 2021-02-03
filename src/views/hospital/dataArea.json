@@ -1,0 +1,113 @@
+{
+    "lanes": [
+      {
+        "id": "Area A",
+        "title": "Area A",
+        
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "BlockA1",
+            "title": "Block A1"
+          },
+          {
+            "id": "BlockA2",
+            "title": "Block A2"
+          },
+          {
+            "id": "BlockA3",
+            "title": "Block A3"
+          },
+          {
+            "id": "BlockA4",
+            "title": "Block A4"
+          }
+        ]
+      },
+      {
+        "id": "Area 2B",
+        "title": "Area 2B",
+       
+        "style": {
+          "width": 280
+        },
+        "cards": [
+            {
+              "id": "BlockB1",
+              "title": "Block B1"
+            },
+            {
+              "id": "BlockB2",
+              "title": "Block B2"
+            },
+            {
+              "id": "BlockB3",
+              "title": "Block B3"
+            },
+            {
+              "id": "BlockB4",
+              "title": "Block B4"
+            }
+          ]
+      },
+      {
+        "id": "Area C",
+        "title": "Area C",
+        
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "BlockC1",
+            "title": "Block C1"
+          },
+          {
+            "id": "BlockC2",
+            "title": "Block C2"
+          },
+          {
+            "id": "BlockC3",
+            "title": "Block C3"
+          },
+          {
+            "id": "BlockC4",
+            "title": "Block C4"
+          }
+        ]
+      },
+      {
+        "id": "Area D",
+        "title": "Area D",
+        
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "BlockD1",
+            "title": "Block D1"
+          },
+          {
+            "id": "BlockD2",
+            "title": "Block D2"
+          },
+          {
+            "id": "BlockD3",
+            "title": "Block D3"
+          },
+          {
+            "id": "BlockD4",
+            "title": "Block D4"
+          }
+        ]
+      }
+     
+     
+      
+      
+    ]
+  }
+  

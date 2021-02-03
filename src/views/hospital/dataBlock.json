@@ -1,0 +1,80 @@
+{
+    "lanes": [
+      {
+        "id": "BlockA1",
+        "title": "Block A1",
+      
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "BlockA1",
+            "title": "Ward A1",
+          
+             "description":"Beds=23"
+          },
+          {
+            "id": "BlockA1",
+            "title": "Ward A1",
+          
+             "description":"Beds=34"
+          },
+          {
+            "id": "BlockA1",
+            "title": "Ward A1",
+          
+             "description":"Beds=45"
+          },
+          {
+            "id": "BlockA1",
+            "title": "Ward A1",
+          
+             "description":"Beds=43"
+          }
+        ]
+      },
+      {
+        "id": "BlockB1",
+        "title": "Block B1",
+        "style": {
+          "width": 280
+        },
+        "cards": [
+          {
+            "id": "BlockB1",
+            "title": "Ward B1",
+          
+             "description":"Beds=23"
+          }
+        ]
+      },
+      {
+        "id": "BlockC1",
+        "title": "Block C1",
+        "style": {
+          "width": 280
+        },
+        "cards": []
+      },
+      {
+        "id": "BlockD1",
+        "title": "Block D1",
+        "style": {
+          "width": 280
+        },
+        "label": "2/5",
+        "cards": [
+          {
+            "id": "BlockD1",
+            "title": "Ward D1",
+          
+             "description":"Beds=34"
+          }
+          
+        ]
+      }
+     
+    ]
+  }
+  
